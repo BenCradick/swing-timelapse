@@ -1,0 +1,5 @@
+output/
+clips/**/*
+!clips/**/
+__pycache__/
+*.mp4
